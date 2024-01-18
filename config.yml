@@ -3,7 +3,7 @@ CHUNK_OVERLAP: 30
 NUM_RESULTS: 1
 DATA_PATH: 'data/'
 EMBEDDINGS: 'sentence-transformers/all-mpnet-base-v2'
-VECTOR_DB: 'vectorstore/sparrow'
+VECTOR_DB: 'vectorstore'
 NORMALIZE_EMBEDDINGS: True
 COLLECTION_NAME: 'sparrow'
 DEVICE: 'cpu'
