@@ -1,0 +1,6 @@
+langchain
+langchain-experimental
+chromadb
+sentence_transformers
+pypdf
+python-box
